@@ -8,6 +8,10 @@
 }
 
 
+.carousel-inner{
+  border-image: auto;
+}
+
 
 .container-fluid
 {

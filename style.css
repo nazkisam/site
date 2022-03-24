@@ -1,12 +1,17 @@
 
-
-
+.navbar-brand{
+  color:white;
+  
+}
+.nav-link {
+  color: white;
+}
 
 
 
 .container-fluid
 {
-    background-color: black;
+    background-color:black;
 }
   
    
@@ -25,13 +30,24 @@
     clear: both;
   }
   .card {
-      background-color:yellowgreen;
+      background-color:aqua;
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
     
   }
+  .card-header{
+    background-color:red;
+    color:white;
+    font-size:larger;
+  }
+.card-text{
+  font-size: larger;
+  color:white;
 
+}
  
  
- 
+ .navbar{
+   background-color: black;
+ }

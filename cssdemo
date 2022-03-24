@@ -1,0 +1,32 @@
+.container-fluid{
+    background-color: black;
+}
+.cards
+
+{
+    background-color: blueviolet;
+    margin: 0 auto;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    font-family: sans-serif;
+    
+
+
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+
+}
+
+.card{
+    width: 100%;
+    background: #fff;
+    border:1px solid#ccc;
+    margin: bottom 50px;
+    transition: 0.3s;
+    

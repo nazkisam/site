@@ -8,8 +8,15 @@
 }
 
 
-.carousel-inner{
-  border-image: auto;
+.carousel-caption{
+  
+color:black;
+background-color: violet;
+
+
+}
+.text{
+  font-size: xx-large;
 }
 
 

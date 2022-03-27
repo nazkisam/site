@@ -11,12 +11,9 @@
 .carousel-caption{
   
 color:black;
-background-color: violet;
 
+text-align:center;
 
-}
-.text{
-  font-size: xx-large;
 }
 
 
@@ -24,8 +21,8 @@ background-color: violet;
 .container-fluid
 {
     background-color:black;
-}
-  
+background-image: url(buy2.jpg);
+}  
    
   .column {
     float: left;
@@ -42,19 +39,19 @@ background-color: violet;
     clear: both;
   }
   .card {
-      background-color:aqua;
+      background-color:blue;
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
     
   }
   .card-header{
-    background-color:red;
+    background-color:maroon;
     color:white;
     font-size:larger;
   }
 .card-text{
-  font-size: larger;
+  font-size:medium;
   color:white;
 
 }
@@ -63,3 +60,5 @@ background-color: violet;
  .navbar{
    background-color: black;
  }
+
+ 

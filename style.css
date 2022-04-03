@@ -20,6 +20,8 @@ text-align:center;
 
 .container-fluid
 {
+ 
+ 
     background-color:black;
 background-image: url(buy2.jpg);
 }  
@@ -43,6 +45,9 @@ background-image: url(buy2.jpg);
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
+   
+
+
     
   }
   .card-header{
@@ -53,12 +58,33 @@ background-image: url(buy2.jpg);
 .card-text{
   font-size:medium;
   color:white;
-
+  line-height: 28px;
+  height: 90px;
+  overflow: hidden;
 }
  
  
  .navbar{
    background-color: black;
+ 
+  
+
+
+
+
+
+
+ }
+ .card:hover{
+   transform: translateY(20px);
+
+
  }
 
- 
+ /* .btn{
+   color:crimson;
+
+ }
+ .read-more-text{
+   display:inline;
+ } */

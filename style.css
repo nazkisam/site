@@ -157,10 +157,33 @@ background-image: url(buy2.jpg);
 
 
 
+.overlay-effect a {
+    display: block;
+    position: relative;
+}
+a:active, a:hover, a:focus {
+    outline: 0 none;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:hover {
+    color: #0a58ca;
+}
+a {
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    color: #666;
+}
 
 
 
 
+.single-volunteer-item {
+  border: 5px solid #555;
+}
 
 
 

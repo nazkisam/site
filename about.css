@@ -13,23 +13,13 @@
   background-size: cover;
   border: 3px solid red;
 
-    background-image:url('../site/img/Screenshot\ \(20\).png');
+    background-image:url('yts1.jpg');
 }
  .featurette-heading{
     height: 100vh;
     background-size: cover;
     border: 3px solid red;
   
-      background-image:url('../site/img/Screenshot\ \(20\).png');
- }
-
-
- body
- {
-    height: 100vh;
-    background-size: cover;
-    border: 3px solid red;
-  
-      background-image:url(yt1.jpg)
+      background-image:url('yts15.jpg');
 
  }

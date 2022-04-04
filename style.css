@@ -90,12 +90,74 @@ background-image: url(buy2.jpg);
  } */
 
  .more{
+   color: black;
    position:relative;
    padding:10px 15px;
    background:fuchsia ;
    margin-top: 15px;
    display:inline-block;
  }
+
+
+ .mybtn{
+
+  color:blue;
+
+ }
+
+
+
+ .images{
+   background-color: yellow;
+ }
+
+
+ .about-carousel-item {
+  width: 100%;
+  background:red;
+}
+
+.featured-item-row{
+  background:rgb(236, 232, 25);
+}
+
+
+.button-default{
+  color:brown ;
+  background
+  
+  : #000;
+}
+
+
+
+
+
+
+
+
+
+.volunteers-area.padding-large {
+  padding-bottom: 100px;
+  padding-top: 180px;
+}
+
+.volunteers-area {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+.section-gray {
+  background: #EDEDED;
+}
+
+
+
+
+
+
+
+
+
 
 
 
